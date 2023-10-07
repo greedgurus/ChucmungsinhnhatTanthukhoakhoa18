@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>F
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -601,9 +601,9 @@
             hh = h / 2,
 
             opts = {
-                strings: ['HAPPY','BIRTHDAY!','VŨ THỊ THÚY'],
-                charSize: 100,
-                charSpacing: 50,
+                strings: ['CHÚC MỪNG', 'SINH NHẬT!', 'VŨ THỊ THÚY'],
+                charSize: 90,
+                charSpacing: 120,
                 lineHeight: 100,
 
                 cx: w / 2,
