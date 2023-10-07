@@ -602,9 +602,9 @@
 
             opts = {
                 strings: ['CHÚC MỪNG', 'SINH NHẬT!', 'VŨ THỊ THÚY'],
-                charSize: 90,
-                charSpacing: 120,
-                lineHeight: 100,
+                charSize: 60,
+                charSpacing: 70,
+                lineHeight: 80,
 
                 cx: w / 2,
                 cy: h / 2,
