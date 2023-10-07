@@ -1,4 +1,3 @@
-# VuThuyCute
 <!DOCTYPE html>
 <html lang="en">
 
@@ -602,10 +601,10 @@
             hh = h / 2,
 
             opts = {
-                strings: ['HAPPY', 'BIRTHDAY!', 'VŨ THỊ THÚY'],
-                charSize: 120,
-                charSpacing: 120,
-                lineHeight: 120,
+                strings: ['HAPPY','BIRTHDAY!','VŨ THỊ THÚY'],
+                charSize: 100,
+                charSpacing: 10,
+                lineHeight: 100,
 
                 cx: w / 2,
                 cy: h / 2,
